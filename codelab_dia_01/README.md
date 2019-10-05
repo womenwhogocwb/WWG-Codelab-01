@@ -64,4 +64,4 @@ Utilizando o código abaixo como base, **printe na tela** o custo total da compr
 2) Mesmo sem termos atribuído valor a essa variável, será possível printá-la na tela? Tente e observe o que acontece.
 3) Você consegue explicar esse fenômeno?
 
-###### fim :)
+###### fim
